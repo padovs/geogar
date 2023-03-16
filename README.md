@@ -15,7 +15,7 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
 
 * [Clique aqui](https://github.com/padovs/geogar/raw/main/QrCodes-GeogAR.zip) para baixar os marcadores QR-Code (ou baixe o arquivo QrCodes-GeogAR.zip acima)
 * Imprima os marcadores
-* Continue a explicação
+* Continue a explicação (sem esquecer de falar para que serve o botão CONFIGURAR
 
 # Apagar daqui para baixo quando terminar
 
