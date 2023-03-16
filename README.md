@@ -16,3 +16,10 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
 * [Clique aqui](https://github.com/padovs/geogar/raw/main/QrCodes-GeogAR.zip) para baixar os marcadores QR-Code (ou baixe o arquivo QrCodes-GeogAR.zip acima)
 * Imprima os marcadores
 * Continue a explicação
+
+# Apagar daqui para baixo quando terminar
+
+* Concluir a página inicial do GitHub (https://github.com/padovs/geogar)
+  - https://programminghistorian.org/pt/licoes/introducao-ao-markdown
+  - http://www.if.ufrgs.br/fis01069/sintaxemarkdown.html
+  - https://markdown.net.br/introducao/
