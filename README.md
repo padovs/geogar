@@ -32,4 +32,5 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
   - Pantanal: O nome desse bioma remete às regiões alagadiças nele presentes
   - Pampa: Este é o único bioma brasileiro presente somente numa unidade federativa
   - Cerrado, Mata Atântica e Pantanal: O clima deste bioma é tropical.
+* Subir todos os códigos fontes aqui no repositório na pasta src
 * Colocar barra de rolagem (scroll) na tela de configurações
