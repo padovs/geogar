@@ -34,3 +34,5 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
   - Cerrado, Mata Atântica e Pantanal: O clima deste bioma é tropical.
 * Subir todos os códigos fontes aqui no repositório na pasta src
 * Colocar barra de rolagem (scroll) na tela de configurações
+* Subir a APK aqui
+* Colocar o app na PlayStore (se tiver algum custo financeiro, me avise)
