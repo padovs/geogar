@@ -31,4 +31,5 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
   - Mata Atlântica: O clima predominante deste bioma é tropical úmido
   - Pantanal: O nome desse bioma remete às regiões alagadiças nele presentes
   - Pampa: Este é o único bioma brasileiro presente somente numa unidade federativa
+  - Cerrado, Mata Atântica e Pantanal: O clima deste bioma é tropical.
 * Colocar barra de rolagem (scroll) na tela de configurações
