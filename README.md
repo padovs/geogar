@@ -23,7 +23,7 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
   - https://programminghistorian.org/pt/licoes/introducao-ao-markdown
   - http://www.if.ufrgs.br/fis01069/sintaxemarkdown.html
   - https://markdown.net.br/introducao/
-* Na tela de ajuda, substituir o texto "Aponte a câmera... ver o objeto" por "Siga as orientações de como usar o aplicativo no link dos marcadores."
+
 * Colocar uma pergunta de exemplo para cada bioma:
   - Amazônico: Este bioma abrange a maioria dos estados brasileiros da região norte
   - Cerrado: O clima predominante deste bioma é tropical sazonal, com períodos de chuvas e de secas
