@@ -3,7 +3,7 @@ GeogAR - Aplicativo Educacional com Realidade Aumentada para o Auxílio ao Ensin
 
 ## O que é?
 
-O aplicativo GeogAR  é fruto de uma pesquisa de trabalho de conclusão de curso (tcc),  a fim de auxiliar no processo de ensino e aprendizagem  dos 6(seis) biomas brasileiros. O aplicativo é designado a dispositivos móveis e executado no sistema operacional Android.
+O aplicativo GeogAR  é fruto de uma pesquisa de trabalho de conclusão de curso (tcc),  a fim de auxiliar no processo de ensino e aprendizagem  dos 6(seis) biomas brasileiros ilustrados no mapa do IBGE abaixo. O aplicativo é designado a dispositivos móveis e executado no sistema operacional Android.
 
 ![Biomas Brasileiros](/mapa_biomas-brasil.jpg "Fonte: IBGE")
 
