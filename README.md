@@ -11,9 +11,9 @@ O aplicativo GeogAR  é fruto de uma pesquisa de trabalho de conclusão de curs
 O aplicativo GeogAR foi desenvolvido para auxiliar na área dos biomas brasileiros. O aplicativo possui a tecnologia de Realidade Aumentada (tecnologia computacional que permite a criação e sobreposição de objetos sobre as imagens reais dos ambientes). A seguir estão dispostas algumas telas do aplicativo com suas devidas funcionalidades.
 
 Figura 07 – Tela Splash.
-![Tela Menu](/tela menu.png)
 
- 
+![Tela Splash](/respingo.jpg)
+
 A figura 07 apresenta a primeira tela da aplicação ao usuário, denominada tela Splash, onde os recursos necessários e funcionalidades do aplicativo estão sendo carregados com a duração em torno de 5 segundos. Como apresentado na figura, o formato da tela da aplicação também já é apresentado, neste caso, no formato landscape ou paisagem, onde os usuários irão utilizar o aplicativo sempre em posição horizontal, quer seja no smartphone ou tablet.
 Figura 08 – Tela Menu Principal.
  
