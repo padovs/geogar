@@ -7,7 +7,7 @@ O aplicativo GeogAR  é fruto de uma pesquisa de trabalho de conclusão de curs
 
 ![Biomas Brasileiros](/mapa_biomas-brasil.jpg "Fonte: IBGE")
 
-## Como funciona o jogo?
+## Como funciona o app?
 
 Exeplique aqui como usar (lembrando que este texto é para o professor que pode não ser da área da computação)
 
@@ -15,7 +15,7 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
 
 * [Clique aqui](https://github.com/padovs/geogar/raw/main/QrCodes-GeogAR.zip) para baixar os marcadores QR-Code (ou baixe o arquivo QrCodes-GeogAR.zip acima)
 * Imprima os marcadores
-* Continue a explicação (sem esquecer de falar para que serve o botão CONFIGURAR (explicando a ideia do professor poder colocar suas próprias perguntas)
+* Continue a explicação.
 
 # Apagar daqui para baixo quando terminar
 
@@ -33,6 +33,4 @@ Exeplique aqui como usar (lembrando que este texto é para o professor que pode 
   - Pampa: Este é o único bioma brasileiro presente somente numa unidade federativa
   - Cerrado, Mata Atântica e Pantanal: O clima deste bioma é tropical.
 * Subir todos os códigos fontes aqui no repositório na pasta src
-* Colocar barra de rolagem (scroll) na tela de configurações
 * Subir a APK aqui
-* Colocar o app na PlayStore (se tiver algum custo financeiro, me avise)
