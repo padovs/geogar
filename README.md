@@ -8,8 +8,29 @@ O aplicativo GeogAR  é fruto de uma pesquisa de trabalho de conclusão de curs
 ![Biomas Brasileiros](/mapa_biomas-brasil.jpg "Fonte: IBGE")
 
 ## Como funciona o app?
+O aplicativo GeogAR foi desenvolvido para auxiliar na área dos biomas brasileiros. O aplicativo possui a tecnologia de Realidade Aumentada (tecnologia computacional que permite a criação e sobreposição de objetos sobre as imagens reais dos ambientes). A seguir estão dispostas algumas telas do aplicativo com suas devidas funcionalidades.
 
-Exeplique aqui como usar (lembrando que este texto é para o professor que pode não ser da área da computação)
+Figura 07 – Tela Splash.
+ 
+A figura 07 apresenta a primeira tela da aplicação ao usuário, denominada tela Splash, onde os recursos necessários e funcionalidades do aplicativo estão sendo carregados com a duração em torno de 5 segundos. Como apresentado na figura, o formato da tela da aplicação também já é apresentado, neste caso, no formato landscape ou paisagem, onde os usuários irão utilizar o aplicativo sempre em posição horizontal, quer seja no smartphone ou tablet.
+Figura 08 – Tela Menu Principal.
+ 
+A figura 08 ilustra a tela de Menu principal do aplicativo, onde estão dispostos os botões Iniciar, Créditos, Ajuda, Quiz e Sair.
+Figura 09 – Ilustração Tela de Realidade Aumentada.
+  
+A figura 09 é a representação da tela de realidade aumentada, onde o usuário após clicar no botão Iniciar na tela de Menu terá os desafios em formato de cards e responderá os problemas utilizando a tecnologia de realidade aumentada, sendo acionada a câmera de RA para observação dos objetos 2d ou 3d por meio dos marcadores. Ao apontar a câmera do celular para o marcador o usuário responderá se a solução para dado problema é relacionado ao bioma encontrado. Ao confirmar a resposta para tal card será gravado a resposta na aplicação, o usuário terá o feedback da ação e em seguida será disposto um novo card para solução.
+Figura 10 – Tela Créditos.
+ 
+A figura 10 apresenta a tela de informações de contato do desenvolvedor da aplicação e orientador desta pesquisa, bem como os apoios da Universidade do Estado do Amazonas e do curso de Licenciatura em Computação do Centro de Estudos Superiores de Itacoatiara – CESIT/UEA para utilização dos tablets em sala de aula.
+Figura 11 – Tela Ajuda.
+ 
+A figura 11 apresenta a tela de Ajuda ao usuário da aplicação, onde o mesmo poderá observar como fazer o procedimento para download e impressão dos marcadores. Também é orientado como posicionar a câmera do celular para melhor observar os objetos em RA. 
+
+Figura 12 – Tela Sair.
+ 
+A figura 12 apresenta a tela de Sair do aplicativo GeogAR, onde o usuário ao clicar no botão Sair do Menu principal será perguntado se “deseja realmente sair?”, e em seguida poderá escolher entre as duas opções disponíveis: “SIM” ou “NÂO”. Caso o usuário responda “SIM” a aplicação é encerrada, do contrário permanecerá na tela de Menu principal.
+Abaixo está representado por meio da plataforma Pencil o diagrama de estados de navegação, ilustrando o fluxo de telas do aplicativo GeogAR. 
+
 
 ## Como usar?
 
