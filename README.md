@@ -13,8 +13,7 @@ O aplicativo GeogAR foi desenvolvido para auxiliar na área dos biomas brasileir
 
 Tela Splash
 
-<img src="https://user-images.githubusercontent.com/122568798/227056256-67e3d8c0-8926-49b6-8e63-9f778dea05bf.jpg" width="600px" />
-
+<img src="https://user-images.githubusercontent.com/122568798/227056256-67e3d8c0-8926-49b6-8e63-9f778dea05bf.jpg" width="500px" />
  
 A figura acima  apresenta a primeira tela da aplicação ao usuário, denominada tela Splash, onde os recursos necessários e funcionalidades do aplicativo estão sendo carregados com a duração em torno de 5 segundos. Como apresentado na figura, o formato da tela da aplicação também já é apresentado, neste caso, no formato landscape ou paisagem, onde os usuários irão utilizar o aplicativo sempre em posição horizontal, quer seja no smartphone ou tablet.
 Figura 08 – Tela Menu Principal.
