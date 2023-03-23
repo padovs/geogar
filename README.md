@@ -68,8 +68,8 @@ Se selecionar a opção Ajuda, você será direcionado para a tela acima represe
 
 * **Tela Quiz**
 
-**1**  <img src="https://user-images.githubusercontent.com/122568798/227073841-7ead27c2-270d-4c7a-9968-d76874dd26eb.png" width="450px"/>
-**2**  <img src="https://user-images.githubusercontent.com/122568798/227074013-f3571af1-a5f2-4a55-bd57-ebe334e1742e.png" width="450px"/>
+**1** <img src="https://user-images.githubusercontent.com/122568798/227073841-7ead27c2-270d-4c7a-9968-d76874dd26eb.png" width="450px"/>
+**2** <img src="https://user-images.githubusercontent.com/122568798/227074013-f3571af1-a5f2-4a55-bd57-ebe334e1742e.png" width="450px"/>
 
 Se você apertar na opção Quiz, você será direcionado para tela acima ilustrada no cenário **1**, poderá responder o quiz e ao final terá a sua pontuação no cenário **2**. Estão contidas no quiz **10 perguntas** sobre os conteúdos em áudio disponibilizados no aplicativo (Tela RA) e texto disponíveis aqui na página. 
 
