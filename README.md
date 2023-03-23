@@ -15,6 +15,20 @@ Os biomas brasileiros, correspondem ao conjunto de fauna e flora comumente encon
 * AMAZÔNIA
 <img src="https://user-images.githubusercontent.com/122568798/227087291-d0cb12b6-e854-4b11-bb47-01ec360deb68.png" width="500px"/>
 
+* Mata Atlântica
+ <img src="https://user-images.githubusercontent.com/122568798/227088580-0bccc93d-3d5a-4f5e-ad2a-d92b2fa770f2.png" width="500px"/>
+ 
+* Caatinga
+<img src="https://user-images.githubusercontent.com/122568798/227089204-e8f38245-132d-4f79-a632-23965d149797.png" width="500px"/>
+
+* Cerrado
+<img src="https://user-images.githubusercontent.com/122568798/227091075-f1cadf7e-8d0f-45c0-bbc9-f426b94b93a2.png" width="500px"/>
+
+* Pantanal
+<img src="https://user-images.githubusercontent.com/122568798/227091486-75b6464e-597e-41fa-9aa7-07a43855c0e4.png" width="500px"/>
+
+* Pampa
+<img src="https://user-images.githubusercontent.com/122568798/227092345-0e041dbf-da14-4cc2-8672-064f7244849f.png" width="500px"/>
 
 
 ## Como funciona o app?
