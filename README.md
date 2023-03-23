@@ -19,31 +19,47 @@ A figura acima  apresenta a primeira tela da aplicação ao usuário, denominada
 
 * Tela Menu
 
-<https://user-images.githubusercontent.com/122568798/227070333-fde19748-52cf-4254-8680-39ad468c6cda.png" width="500px" />
+<img src="https://user-images.githubusercontent.com/122568798/227070865-c421d142-e3bd-4a2e-8328-2dcc1f0ef38c.png" width="500px"/>
 
 A figura acima ilustra a tela de Menu principal do aplicativo, onde estão dispostos os botões Iniciar, Créditos, Ajuda, Quiz, Sair. Onde você poderá navegar entre as telas.
 
+* Ilustração Tela de Realidade Aumentada
 
-## Como usar?
+<img src="https://user-images.githubusercontent.com/122568798/227072673-f9395690-5bb9-4bda-9e8d-c2411fed8e9c.png" width="500px"/>
+
+Se você apertar no Botão Iniciar, será direcionado para a figura ilustrada acima onde representa os biomas em realidade aumentada. Ao apontar a câmera do celular para o qr code, você poderá ver o Bioma em 3D.
+
+* Tela Créditos
+
+<img src="https://user-images.githubusercontent.com/122568798/227073031-8fd36997-9502-48ce-b7f8-711b8b71a0d1.jpg" width="500px"/>
+
+Se selecionar a opção Créditos, será direcionado para a figura acima ilustrada onde apresenta a tela de informações de contato do desenvolvedor da aplicação e orientador desta pesquisa, bem como os apoios da Universidade do Estado do Amazonas e do curso de Licenciatura em Computação do Centro de Estudos Superiores de Itacoatiara – CESIT/UEA.
+
+* Tela Ajuda
+
+<img src="https://user-images.githubusercontent.com/122568798/227073229-62605196-bd97-427d-a9d9-c6e8bffdddb4.jpg" width="500px"/>
+
+Se selecionar a opção Ajuda, você será direcionado para a tela acima representada, onde você poderá observar como fazer o procedimento para download e impressão dos marcadores, disponíveis aqui mesmo na página. Você também é orientado como posicionar a câmera do celular para melhor observar os objetos em RA.
+
+* Tela Quiz
+
+1  <img src="https://user-images.githubusercontent.com/122568798/227073841-7ead27c2-270d-4c7a-9968-d76874dd26eb.png" width="500px"/>
+2  <img src="https://user-images.githubusercontent.com/122568798/227074013-f3571af1-a5f2-4a55-bd57-ebe334e1742e.png" width="500px"/>
+
+Se você apertar na opção Quiz, você será direcionado para tela acima ilustrada no cenário 1, poderá responder o quiz e ao final terá a sua pontuação no cenário 2. Estão contidas no quiz 10 perguntas sobre os conteúdos em áudio disponibilizados no aplicativo (Tela RA) e texto disponíveis aqui na página. 
+
+* Tela Sair 
+
+<img src="https://user-images.githubusercontent.com/122568798/227076509-8043e5fe-3680-4a62-bedc-92759d4b3811.png" width="500px"/>
+
+Na opção Sair, você receberá um feedback como apresentado acima, onde ao clicar no botão Sair do Menu principal você será perguntado se “deseja realmente sair?”, e em seguida poderá escolher entre as duas opções disponíveis: “SIM” ou “NÂO”. Caso o você responda “SIM” a aplicação é encerrada, do contrário permanecerá na tela de Menu principal.
+
+## Como usar a RA (Realidade Aumentada) ?
 
 * [Clique aqui](https://github.com/padovs/geogar/raw/main/QrCodes-GeogAR.zip) para baixar os marcadores QR-Code (ou baixe o arquivo QrCodes-GeogAR.zip acima)*
 * Imprima os marcadores
-* Continue a explicação.
+* procure um local plano e bem iluminado
+* Após clicar no botão Iniciar aponte a câmera do Tablet/Celular para escanear o QR-Code.
 
-# Apagar daqui para baixo quando terminar
 
-* Concluir a página inicial do GitHub (https://github.com/padovs/geogar)
-  - https://programminghistorian.org/pt/licoes/introducao-ao-markdown
-  - http://www.if.ufrgs.br/fis01069/sintaxemarkdown.html
-  - https://markdown.net.br/introducao/
 
-* Colocar uma pergunta de exemplo para cada bioma:
-  - Amazônico: Este bioma abrange a maioria dos estados brasileiros da região norte
-  - Cerrado: O clima predominante deste bioma é tropical sazonal, com períodos de chuvas e de secas
-  - Caatinga: Este bioma ocupa grande parte da região nordeste do país
-  - Mata Atlântica: O clima predominante deste bioma é tropical úmido
-  - Pantanal: O nome desse bioma remete às regiões alagadiças nele presentes
-  - Pampa: Este é o único bioma brasileiro presente somente numa unidade federativa
-  - Cerrado, Mata Atântica e Pantanal: O clima deste bioma é tropical.
-* Subir todos os códigos fontes aqui no repositório na pasta src
-* Subir a APK aqui
