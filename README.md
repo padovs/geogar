@@ -7,6 +7,16 @@ O aplicativo GeogAR  é fruto de uma pesquisa de trabalho de conclusão de curs
 
 ![Biomas Brasileiros](/mapa_biomas-brasil.jpg "Fonte: IBGE")
 
+## Conteúdos de apoio
+O que é Bioma? 
+Os biomas brasileiros, correspondem ao conjunto de fauna e flora comumente encontrados em nosso país.
+“Bioma é um conjunto de vida vegetal e animal, constituído pelo agrupamento de tipos de vegetação que são próximos e que podem ser identificados em nível regional, com condições de geologia e clima semelhantes e que, historicamente, sofreram os mesmos processos de formação da paisagem, resultando em uma diversidade de flora e fauna própria”. (IBGE, acesso 2022).
+
+* AMAZÔNIA
+<img src="https://user-images.githubusercontent.com/122568798/227087291-d0cb12b6-e854-4b11-bb47-01ec360deb68.png" width="300px"/>
+
+
+
 ## Como funciona o app?
 O aplicativo GeogAR foi desenvolvido para auxiliar na área dos biomas brasileiros. O aplicativo possui a tecnologia de Realidade Aumentada (tecnologia computacional que permite a criação e sobreposição de objetos sobre as imagens reais dos ambientes). A seguir estão dispostas algumas telas do aplicativo com suas devidas funcionalidades.
 
@@ -60,6 +70,7 @@ Na opção Sair, você receberá um feedback como apresentado acima, onde ao cli
 * Imprima os marcadores
 * procure um local plano e bem iluminado
 * Após clicar no botão Iniciar aponte a câmera do Tablet/Celular para escanear o QR-Code.
+* Após estudo na tela de RA e também aqui na página do projeto você poderá responder o quiz.
 
 
 
