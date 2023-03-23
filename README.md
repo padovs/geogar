@@ -13,7 +13,7 @@ Os biomas brasileiros, correspondem ao conjunto de fauna e flora comumente encon
 “Bioma é um conjunto de vida vegetal e animal, constituído pelo agrupamento de tipos de vegetação que são próximos e que podem ser identificados em nível regional, com condições de geologia e clima semelhantes e que, historicamente, sofreram os mesmos processos de formação da paisagem, resultando em uma diversidade de flora e fauna própria”. (IBGE, acesso 2022).
 
 * AMAZÔNIA
-<img src="https://user-images.githubusercontent.com/122568798/227087291-d0cb12b6-e854-4b11-bb47-01ec360deb68.png" width="300px"/>
+<img src="https://user-images.githubusercontent.com/122568798/227087291-d0cb12b6-e854-4b11-bb47-01ec360deb68.png" width="500px"/>
 
 
 
