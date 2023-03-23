@@ -87,7 +87,18 @@ Na opção Sair, você receberá um feedback como apresentado acima, onde ao cli
 * Após clicar no botão Iniciar aponte a câmera do Tablet/Celular para escanear o QR-Code.
 * Após estudo na tela de RA e também aqui na página do projeto você poderá responder o quiz.
 
-## Nossas Fontes Bibliográficas
+## Fontes e Referências
+Ministério do Meio Ambiente (https://www.gov.br/mma/pt-br)
+
+Ministério de Minas e Energia (https://www.gov.br/mme/pt-br)
+
+IBGE 2014, 2015, 2016, 2017 e 2018 (https://www.ibge.gov.br/)
+
+WWF, 2018 (https://www.wwf.org.br/)
+
+EMBRAPA (https://www.embrapa.br/)
+
+ICMBIO (https://www.gov.br/icmbio/pt-br)
 
 
 
